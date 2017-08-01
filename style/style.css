@@ -1,0 +1,9 @@
+li {
+    list-style-type: none;
+}
+
+.link:hover {
+    color: #0275d8;
+    cursor: pointer;
+    text-decoration: underline;
+}
